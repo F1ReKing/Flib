@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">flib</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="service_error">service_error</string>
+    <string name="not_found">not_found</string>
+    <string name="timeout">网络超时</string>
+    <string name="network_wrong">网络连接错误，请检查网络</string>
+    <string name="unexpected_error">网络数据错误</string>
+</resources>
