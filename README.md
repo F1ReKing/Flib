@@ -20,7 +20,7 @@ Flib是我个人的快速开发基础库，采用kotlin语音
 #### Step 2. Add the dependency
 ```
 	dependencies {
-	       compile 'com.github.F1ReKing:Flib:x.y.z'
+	       implementation 'com.github.F1ReKing:Flib:x.y.z'
 	}
 ```
 Current latest version: [![](https://jitpack.io/v/F1ReKing/Flib.svg)](https://jitpack.io/#F1ReKing/Flib)
