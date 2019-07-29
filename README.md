@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/F1ReKing/Flib/blob/master/LICENSE)
 
 ## About
-Flib是我个人的快速开发基础库，采用kotlin语音
+Flib是我个人的快速开发基础库，采用kotlin
 
 ## Use
 ### 1. Add dependency
