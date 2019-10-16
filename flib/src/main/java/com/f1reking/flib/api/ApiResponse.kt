@@ -65,7 +65,7 @@ abstract class ApiResponse<T>(private val context: Context) : Observer<T> {
     }
 
     private fun otherError(e: HttpException) = Gson().fromJson(
-        e.response().errorBody()?.charStream(), ApiErrorModel::class.java)
+        e.response()!!.errorBody()?.charStream(), ApiErrorModel::class.java)
 
     abstract fun success(data: T)
     abstract fun failure(statusCode: Int,
